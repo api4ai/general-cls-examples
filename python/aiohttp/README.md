@@ -1,6 +1,6 @@
 # API4AI general image classification / labelling sample
 
-This directory contains a minimalistic sample that sends requests to the API4AI Brand Recognition API.
+This directory contains a minimalistic sample that sends requests to the API4AI General Classification API.
 The sample is implemented in `python` using [aiohttp](https://pypi.org/project/aiohttp/) module.
 
 
