@@ -26,7 +26,7 @@ The General Classification (Labelling) API offers a complete solution for image 
 Considering how many classes this solution covers, you can use it for commercial apps, social studies, environmental research and many more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/rapidapi/general_classification_1.png"/>
+<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/general_classification_1.png"/>
 </div>
 
 
