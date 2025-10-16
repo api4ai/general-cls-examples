@@ -47,7 +47,7 @@ let OPTIONS = [
 
 
 // Prepare http body with image or url.
-let image = CommandLine.arguments.count > 1 ? CommandLine.arguments[1] : "https://storage.googleapis.com/api4ai-static/samples/general-cls-2.jpg"
+let image = CommandLine.arguments.count > 1 ? CommandLine.arguments[1] : "https://static.api4.ai/samples/general-cls-2.jpg"
 var httpBody: Data;
 if (image.contains("://")) {
     // POST image via URL.
