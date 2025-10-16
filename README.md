@@ -1,7 +1,7 @@
 # API4AI Samples: Image Classification / Labelling
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=general_cls_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=general_cls_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -26,7 +26,7 @@ The General Classification (Labelling) API offers a complete solution for image 
 Considering how many classes this solution covers, you can use it for commercial apps, social studies, environmental research and many more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/general_classification_1.png"/>
+<img width="600" src="https://static.api4.ai/visuals/general_classification_1.png"/>
 </div>
 
 
