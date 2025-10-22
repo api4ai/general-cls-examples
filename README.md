@@ -1,7 +1,7 @@
 # API4AI Samples: Image Classification / Labelling
 
 <div align="center">
-<a target="_blank" href="https://api4.ai"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=example-repo&utm_medium=referral&utm_campaign=image-labelling"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -55,7 +55,7 @@ This project run to help API users with ready-to-use examples in a set of the mo
 
 ## 🔗 Links
 
-* Sign up at [API4AI Developer Portal](https://portal.api4.ai)
+* Sign up at [API4AI Developer Portal](https://portal.api4.ai?utm_source=example-repo&utm_medium=referral&utm_campaign=image-labelling)
 * Learn more about API at [api4.ai](https://api4.ai/docs/image-labelling)
 * Try API via [🤖 telegram demo bot](https://t.me/a4a_img_labelling_bot)
 * View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/general-classification1/details)
